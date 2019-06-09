@@ -18,7 +18,7 @@ This repository serves as a central point for coordinating Mensa SA AI SIG group
 1. The [CIS page of the IEEE](https://cis.ieee.org/) page.
 1. Coursera has a legendary [Machine Learning Course](https://www.coursera.org/learn/machine-learning) that is archived by now. It will teach you more theory than you probably need, but despite that it's not too maths-heavy.
 1. Google has a [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/).
-1. Siraj has a repository with some of his [career-oriented Machine Learning videos](https://github.com/llSourcell/Machine_Learning_Journey?fbclid=IwAR1y9YZMC_CPfITtHkBwuyN1YvNQ7v6BQ2cMoG5wS7VYsfJfdfuJmJaHAvI).
+1. Siraj has a repository with some of his [career-oriented Machine Learning videos](https://github.com/llSourcell/Machine_Learning_Journey).
 
 ## Useful Data Science links
 1. [Super Data Science](https://www.superdatascience.com/).
