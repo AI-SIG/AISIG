@@ -6,6 +6,7 @@ This repository serves as a central point for coordinating Mensa SA AI SIG group
 1. For showcasing our projects, use github or [bitbucket](https://bitbucket.org/product/).
 1. Google has a [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/?fbclid=IwAR1mRpsPlqCD-wdV87KS2eh8kw8cXhRwqG8zd7Aa8voa0H7dqJ_yqkj0Bvo).
 1. [Kaggle](https://www.kaggle.com/) has loads of data sets and competitions. Forking a kernel is a great way to learn - almost as great as writing your own kernel. This is more on the data science side of things, but it overlaps with Machine Learning and AI. Who knows? Perhaps we can form Mensa SA teams and win one of their competitions. Cha ching!
+1. Kaggle also has [Programming and Machine Learning courses](https://www.kaggle.com/learn/overview), for various levels. They're currently still developing the courses, so you can go from novice to intermediate but they'll probably have advanced course content eventually.
 1. Ask one of your friendly Mensa committee members for access to the WhatsApp group. If that fails, you can also ask me.
 
 ## Useful AI links
