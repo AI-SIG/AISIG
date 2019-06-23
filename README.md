@@ -19,9 +19,11 @@ This repository serves as a central point for coordinating Mensa SA AI SIG group
 1. Coursera has a legendary [Machine Learning Course](https://www.coursera.org/learn/machine-learning) that is archived by now. It will teach you more theory than you probably need, but despite that it's not too maths-heavy.
 1. Google has a [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/).
 1. Siraj has a repository with some of his [career-oriented Machine Learning videos](https://github.com/llSourcell/Machine_Learning_Journey).
+1. [Machine learning Mastery](https://machinelearningmastery.com/).
 
 ## Useful Data Science links
 1. [Super Data Science](https://www.superdatascience.com/).
+1. [Machine learning Mastery](https://machinelearningmastery.com/). Yes, this covers both machine learning and data science. 
 
 ## You are welcome to discuss Roko's Basilisk here
 Feel free to discuss [grey goo](https://en.wikipedia.org/wiki/Grey_goo), the [Nibiru cataclysm](https://en.wikipedia.org/wiki/Nibiru_cataclysm) and even [Roko's Basilisk](https://wiki.lesswrong.com/wiki/Roko%27s_basilisk). This is a special interest group and not a tyranny.  
