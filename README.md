@@ -20,6 +20,7 @@ This repository serves as a central point for coordinating Mensa SA AI SIG group
 1. Google has a [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/).
 1. Siraj has a repository with some of his [career-oriented Machine Learning videos](https://github.com/llSourcell/Machine_Learning_Journey).
 1. [Machine learning Mastery](https://machinelearningmastery.com/).
+1. [Deep Learning](https://www.deeplearning.ai/) courses and tutorials from [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) and his students.
 
 ## Useful Data Science links
 1. [Super Data Science](https://www.superdatascience.com/).
