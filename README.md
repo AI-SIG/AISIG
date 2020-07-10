@@ -9,7 +9,7 @@ This repository serves as a central point for coordinating Mensa SA AI SIG group
 1. Ask one of your friendly Mensa committee members for access to the WhatsApp group. If that fails, you can also ask me.
 
 ## Useful AI links
-1. [What is AI](https://www.zdnet.com/article/what-is-ai-everything-you-need-to-know-about-artificial-intelligence/)? This link also explains the differenc between AI and Machine Learning.
+1. [What is AI](https://www.zdnet.com/article/what-is-ai-everything-you-need-to-know-about-artificial-intelligence/)? This link also explains the difference between AI and Machine Learning.
 1. [Eliezer Yudkowski](http://yudkowsky.net/) is an AI evangelist who has loads of fascinating blog posts on AI and related topics. Also on some unrelated topics.
 1. The [Singularity](https://singularityhub.com/) is near!
 
@@ -18,13 +18,13 @@ This repository serves as a central point for coordinating Mensa SA AI SIG group
 1. The [CIS page of the IEEE](https://cis.ieee.org/) page.
 1. Coursera has a legendary [Machine Learning Course](https://www.coursera.org/learn/machine-learning) that is archived by now. It will teach you more theory than you probably need, but despite that it's not too maths-heavy.
 1. Google has a [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/).
-1. You can do the [Open Source Data Science Masters Degree](http://datasciencemasters.org/)
 1. [Machine learning Mastery](https://machinelearningmastery.com/).
 1. [Deep Learning](https://www.deeplearning.ai/) courses and tutorials from [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) and his students.
 
 ## Useful Data Science links
 1. [Super Data Science](https://www.superdatascience.com/).
-1. [Machine learning Mastery](https://machinelearningmastery.com/). Yes, this covers both machine learning and data science. 
+1. [Machine learning Mastery](https://machinelearningmastery.com/). Yes, this covers both machine learning and data science.
+1. You can do the [Open Source Data Science Masters Degree](http://datasciencemasters.org/)
 
 ## You are welcome to discuss Roko's Basilisk here
 Feel free to discuss [grey goo](https://en.wikipedia.org/wiki/Grey_goo), the [Nibiru cataclysm](https://en.wikipedia.org/wiki/Nibiru_cataclysm) and even [Roko's Basilisk](https://wiki.lesswrong.com/wiki/Roko%27s_basilisk). This is a special interest group and not a tyranny.  
